@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8f83ac84eb88bf4da120adbf9c1a558, type: 3}
+  m_Name: Pepperoni
+  m_EditorClassIdentifier: Assembly-CSharp:Data.Assets:Topping
+  Quarter: {fileID: 21300000, guid: f89857c268bb1d544b4c3828b4213c59, type: 3}
+  Half: {fileID: 21300000, guid: 889cd0481b8d4d04e9c7a744c306a00b, type: 3}
+  Full: {fileID: 21300000, guid: 9f7762615e885ad47baf783e17dcdf19, type: 3}
